@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <padding
+        android:bottom="@dimen/padding_custom_edittext"
+        android:top="@dimen/padding_custom_edittext"
+        android:left="@dimen/padding_custom_edittext"
+        android:right="@dimen/padding_custom_edittext" />
+    <solid android:color="#FFFFFF" />
+    <stroke
+        android:color="#000"
+        android:width="2dp" />
+    <corners android:radius="16dp" />
+</shape>
